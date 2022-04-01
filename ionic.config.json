@@ -1,0 +1,7 @@
+{
+  "name": "PRODUCTO FINAL",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

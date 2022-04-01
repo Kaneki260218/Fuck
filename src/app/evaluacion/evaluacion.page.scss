@@ -1,0 +1,33 @@
+ion-button {
+    --background: rgb(255, 255, 255);
+    --border-radius: 15px;
+      margin-top: 20px;
+      margin-left: 30px;
+      margin-right: 30px;
+      margin-bottom: 20px;
+      text-transform: initial;
+}
+ion-radio {
+    --border-radius: 8px;
+    --color: #ffffff;
+    --color-checked: #0065fc;
+    --inner-border-radius: 2px
+}
+ion-card{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+ion-card-header{
+    img{
+        margin-top: 20px;
+        width: 250px;
+        height: 250px;
+    }
+}
+ion-avatar {
+    width: 80px;
+    height: 80px;
+}
+

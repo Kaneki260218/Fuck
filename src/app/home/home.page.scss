@@ -1,0 +1,47 @@
+ion-title {
+    text-align: center;
+}
+
+ion-content {
+    --background: url("../../assets/icon/POP.jpg") center center fixed;
+    #header{
+        margin-top: 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+    h1{
+        text-align: center;
+        font-weight: 20px;
+        font-size: small;
+        color: black;
+        margin-bottom: 15%;
+        border-radius: 50px;
+    }
+    img{
+        border-radius: 50%;
+        width: 100px;
+        height: 100px;
+    }
+}
+}
+container{
+    align-items: center;
+    text-align: center;
+    position: absolute;
+    left: 0;
+    right: 0;
+    transform: translateY(-50%);
+}
+
+ion-footer{
+    background: white;
+    background-color: white;
+}
+ion-toolbar {
+    background: white;
+    background-color: white;
+}
+ion-card-content{
+    text-align: center;
+}
